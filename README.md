@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Di :) 
 
+I'm a Computer Science student at Drexel University. I love coding and am passionate about software development. I'm eager to continuously learn in this constantly changing field!
 <!--
 **dihuynh23/dihuynh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
