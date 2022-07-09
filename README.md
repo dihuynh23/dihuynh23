@@ -1,4 +1,4 @@
-### Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Di :) 
+### Hi there! I'm Di :) 
 
 I'm a Computer Science student at Drexel University. I love coding and am passionate about software development. I'm eager to continuously learn in this constantly changing field!
 <!--
